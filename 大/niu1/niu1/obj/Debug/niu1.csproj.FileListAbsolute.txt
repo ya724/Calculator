@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\大\niu1\niu1\bin\Debug\niu1.exe.config
+C:\Users\ASUS\Desktop\大\niu1\niu1\bin\Debug\niu1.exe
+C:\Users\ASUS\Desktop\大\niu1\niu1\bin\Debug\niu1.pdb
+C:\Users\ASUS\Desktop\大\niu1\niu1\obj\Debug\niu1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\大\niu1\niu1\obj\Debug\niu1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\大\niu1\niu1\obj\Debug\niu1.exe
+C:\Users\ASUS\Desktop\大\niu1\niu1\obj\Debug\niu1.pdb

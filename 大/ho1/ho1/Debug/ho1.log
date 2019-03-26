@@ -1,0 +1,3 @@
+﻿  源.cpp
+c:\users\asus\desktop\大\ho1\ho1\源.cpp(17): warning C4326: “main”的返回类型应为“int”而非“void”
+  ho1.vcxproj -> C:\Users\ASUS\Desktop\大\ho1\Debug\ho1.exe
